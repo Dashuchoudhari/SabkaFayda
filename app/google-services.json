@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017030987497",
+    "project_id": "saabka-fayda",
+    "storage_bucket": "saabka-fayda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017030987497:android:286f375a3ae8559828aa78",
+        "android_client_info": {
+          "package_name": "com.sabkafayda.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNRvt1NkxAPIWK7tM5V7aklJTsfRWY6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
